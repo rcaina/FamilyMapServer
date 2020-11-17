@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FamilyMapShared:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d53cf641-aa6d-4f72-b071-f8f71b814785" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iKsta7rPqJOR6xHJoxyOKg8xfU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/AsyncWebAccess-IntelliJ" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.21035598" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Service" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Renzo\IdeaProjects\FamilyMapServer\src\DataAccessTests" />
+      <recent name="C:\Users\Renzo\IdeaProjects\FamilyMapServer\Resources" />
+      <recent name="C:\Users\Renzo\IdeaProjects\FamilyMapServer" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Renzo\IdeaProjects\FamilyMapServer" />
+      <recent name="C:\Users\Renzo\IdeaProjects\FamilyMapServer\Libs" />
+      <recent name="C:\Users\Renzo\IdeaProjects\FamilyMapServer\TextFiles" />
+      <recent name="C:\Users\Renzo\IdeaProjects\FamilyMapServer\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main.Main" />
+      <module name="FamilyMapServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataAccessTests in FamilyMapServer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMapServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataAccessTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataAccessTests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonAccessTest.testFind" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMapServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataAccessTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataAccessTests" />
+      <option name="MAIN_CLASS_NAME" value="DataAccessTests.PersonAccessTest" />
+      <option name="METHOD_NAME" value="testFind" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonAccessTest.testFindFamily" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMapServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataAccessTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataAccessTests" />
+      <option name="MAIN_CLASS_NAME" value="DataAccessTests.PersonAccessTest" />
+      <option name="METHOD_NAME" value="testFindFamily" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonAccessTest.testFindFamilyFail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FamilyMapServer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataAccessTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataAccessTests" />
+      <option name="MAIN_CLASS_NAME" value="DataAccessTests.PersonAccessTest" />
+      <option name="METHOD_NAME" value="testFindFamilyFail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.DataAccessTests in FamilyMapServer" />
+        <item itemvalue="JUnit.PersonAccessTest.testFind" />
+        <item itemvalue="JUnit.PersonAccessTest.testFindFamily" />
+        <item itemvalue="JUnit.PersonAccessTest.testFindFamilyFail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d53cf641-aa6d-4f72-b071-f8f71b814785" name="Default Changelist" comment="" />
+      <created>1601667832269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601667832269</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1604694309146">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1604694309146" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604380702249">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1604380702249" />
+    <state x="889" y="124" key="#com.intellij.ide.util.MemberChooser" timestamp="1603987895718">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="889" y="124" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1603987895718" />
+    <state x="590" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604692380628">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="590" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1604692380628" />
+    <state x="898" y="162" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1602009561709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="898" y="162" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1602009561709" />
+    <state x="920" y="169" key="FileChooserDialogImpl" timestamp="1605059905150">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="920" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605059905150" />
+    <state width="673" height="149" key="GridCell.Tab.0.bottom" timestamp="1605646639285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="149" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605646639285" />
+    <state width="673" height="149" key="GridCell.Tab.0.center" timestamp="1605646639285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="149" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1605646639285" />
+    <state width="673" height="149" key="GridCell.Tab.0.left" timestamp="1605646639284">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="149" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1605646639284" />
+    <state width="673" height="149" key="GridCell.Tab.0.right" timestamp="1605646639285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="673" height="149" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1605646639285" />
+    <state width="702" height="152" key="GridCell.Tab.1.bottom" timestamp="1605152034233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="702" height="152" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1605152034233" />
+    <state width="702" height="152" key="GridCell.Tab.1.center" timestamp="1605152034232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="702" height="152" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1605152034232" />
+    <state width="702" height="152" key="GridCell.Tab.1.left" timestamp="1605152034232">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="702" height="152" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1605152034232" />
+    <state width="702" height="152" key="GridCell.Tab.1.right" timestamp="1605152034233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="702" height="152" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1605152034233" />
+    <state x="498" y="0" key="SettingsEditor" timestamp="1605160205967">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1605160205967" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1605654370278">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1605654370278" />
+    <state x="869" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1602618253142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="869" y="308" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1602618253142" />
+    <state x="902" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1603957127757">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="902" y="130" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1603957127757" />
+    <state x="397" y="63" key="new project wizard" timestamp="1604691517115">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="397" y="63" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1604691517115" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1604008626160">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1604008626160" />
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup" timestamp="1603490123922">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="66" width="670" height="676" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603490123922" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ServiceTests/ClearServiceTest.java</url>
+          <line>83</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Handlers/LoginHandler.java</url>
+          <line>62</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Handlers/LoginHandler.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Handlers/LoginHandler.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
